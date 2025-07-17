@@ -1,0 +1,20 @@
+# Crear entorno virtual
+python3 -m venv venv
+
+# Activar entorno
+source venv/bin/activate
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Ejecutar scraping + API
+python main.py
+
+# Links para mostrar datos
+http://localhost:5000/quotes
+
+http://localhost:5000/quotes?author=Albert%20Einstein
+
+http://localhost:5000/quotes?tag=truth
+
+http://localhost:5000/quotes?search=life

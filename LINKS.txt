@@ -1,0 +1,12 @@
+Cuando vaya a ejecutar lo que hice anteiormente con el main.py
+tener en cuenta estos links, sino dara error 404
+
+LINKS: http://localhost:5000/quotes
+
+http://localhost:5000/quotes?author=Albert%20Einstein
+
+http://localhost:5000/quotes?tag=truth
+
+http://localhost:5000/quotes?search=life
+
+GRACIAS  :D
