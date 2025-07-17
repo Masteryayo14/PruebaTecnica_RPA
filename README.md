@@ -20,10 +20,16 @@ Este proyecto resuelve la prueba técnica solicitada: realiza **scraping** sobre
 prueba/
 ├── app/
 │ ├── api.py # Endpoints del REST
-│ ├── models.py # Modelos de la base de datos, (Generada por IA)
+│ ├── models.py # Modelos de la base de datos
 │ └── scraper.py # Lógica de scraping
 ├── main.py # Punto de entrada: scraping + API
 ├── requirements.txt # Dependencias del proyecto
 ├── README.md # Documentación
 ├── quotes.db # Base de datos SQLite generada
 └── LINKS.txt # Tener en cuenta las URL para visualizar en google.
+
+
+Cabe aclarar que me colaboro con la IA para poder realizar esta prueba, con mis palabras siempre he dicho que si no sé del tema a la perfección no esta de mas apoyarse con la IA, sin ser dependiente.
+Solo busco agregar y sumar mi experiencia y asi poder aumentar mi vida laboral y mi campo.
+
+Muchas gracias por darme la oportunidad.
